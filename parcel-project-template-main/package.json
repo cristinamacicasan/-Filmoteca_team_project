@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
-  "version": "2.0.0",
+  "name": "filmoteca",
+  "version": "0.0.1",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": " https://cristinamacicasan.github.io/Filmoteca_team_project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /Filmoteca_team_project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/cristinamacicasan/Filmoteca_team_project"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
